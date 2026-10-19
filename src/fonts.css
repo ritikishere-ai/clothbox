@@ -1,0 +1,25 @@
+/* Season Sans and Season Serif (trial licences). Buy the web licence before the site goes public. */
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-Light.woff2") format("woff2"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-LightItalic.woff2") format("woff2"); font-weight: 300; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-RegularItalic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-Medium.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-MediumItalic.woff2") format("woff2"); font-weight: 500; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-SemiBold.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-SemiBoldItalic.woff2") format("woff2"); font-weight: 600; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-BoldItalic.woff2") format("woff2"); font-weight: 700; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-Heavy.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Sans"; src: url("/fonts/SeasonSansTRIAL-HeavyItalic.woff2") format("woff2"); font-weight: 900; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-Light.woff2") format("woff2"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-LightItalic.woff2") format("woff2"); font-weight: 300; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-RegularItalic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-Medium.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-MediumItalic.woff2") format("woff2"); font-weight: 500; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-SemiBold.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-SemiBoldItalic.woff2") format("woff2"); font-weight: 600; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-BoldItalic.woff2") format("woff2"); font-weight: 700; font-style: italic; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-Heavy.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Season Serif"; src: url("/fonts/SeasonSerifTRIAL-HeavyItalic.woff2") format("woff2"); font-weight: 900; font-style: italic; font-display: swap; }
