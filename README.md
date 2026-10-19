@@ -23,13 +23,6 @@ The `dist/` folder can be uploaded to any static host.
 - `src/fonts.css`, `public/fonts/`: Season Sans and Season Serif
 - `public/assets/`: images exported from Figma
 
-## Still to add
-Three photos are page backgrounds in Figma with text on top, so they could not be exported cleanly.
-Export them and save them in `public/assets/` with these names; the page picks them up automatically:
-- `hero.jpg`: hero photo (frame "Frame 1")
-- `hands.jpg`: sewing-machine photo (frame "Frame 14")
-- `circularity.jpg`: left half of the Circularity+ band (frame "Frame 2147224513")
-
 ## Fonts
 Season Sans and Season Serif are trial versions. Buy the web licence before the site goes public,
 then replace the files in `public/fonts/` with the licensed ones (same file names).
